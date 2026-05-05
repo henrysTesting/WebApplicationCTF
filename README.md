@@ -15,9 +15,6 @@
 
 **Parrot OS** - Penetration testing distribution with pre-installed security tools.
 
-### nslookup / dig
-**Purpose:** DNS queries for discovering records and subdomains
-**Use case:** Finding DNS TXT records that may contain flags or sensitive info
 --- 
 What I Learned:
 
