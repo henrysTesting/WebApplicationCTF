@@ -16,7 +16,7 @@
 **Parrot OS** - Penetration testing distribution with pre-installed security tools.
 
 --- 
-What I Learned:
+## What I Learned
 
 **OSINT is the foundation** - Subdomain enumeration (Subfinder) revealed the entire attack path. Always start with reconnaissance.
 
