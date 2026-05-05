@@ -1,4 +1,4 @@
-## Challenge Overview
+### Challenge Overview
 - **Platform:** ctfio.com (Multiple instances: quartz, tanzanite, barite, hennessy)
 - **Difficulty:** Intermediate
 - **Type:** Web Application Exploitation - OSINT, Authentication, API Security, IDOR
