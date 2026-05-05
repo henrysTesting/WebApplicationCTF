@@ -15,7 +15,7 @@
    - www.vulnbegin.co.uk (new)
 6. Plug them into our target site with different variations:
    - https://[new].quartz.ctfio.com 
-   - https://[new].quartz.ctfio.com/[new]
+   - https://quartz.ctfio.com/[new]
    
    ![alt text](images/image-2.png)
    ![alt text](images/image-4.png)
@@ -112,13 +112,16 @@
    ![alt text](images/image-19.png)
 
 6. Running in Burp and adding the API key:
-   ![alt text](images/image-20.png)
 
-7. Navigating to /user/27 with API key in Burp:
+    ![alt text](images/image-20.png)
+
+8. Navigating to /user/27 with API key in Burp:
+
    ![alt text](images/image-21.png)
 
-8. Going to /user/27/info with API key:
-   ![alt text](images/image-22.png)
+9. Going to /user/27/info with API key:
+
+    ![alt text](images/image-22.png)
    - `[^FLAG^7B3A24F3368E71842ED7053CF1E51BB0^FLAG^]`
 
 ---
@@ -134,5 +137,6 @@
 
 3. Accessing /user/5/info
 4. Repeating Burp request with API key:
+
    ![alt text](images/image-24.png)
    - `[^FLAG^3D82BE780F46EE86CE060D23E6E80639^FLAG^]`
